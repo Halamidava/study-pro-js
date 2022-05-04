@@ -1,0 +1,44 @@
+[
+    {
+        "id_product": 0,
+        "image": "0.jpg",
+        "product_name": "Product 0",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "price": 52.22
+    },
+    {
+        "id_product": 1,
+        "image": "1.jpg",
+        "product_name": "Product 1",
+        "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+        "price": 32.12
+    },
+    {
+        "id_product": 2,
+        "image": "2.jpg",
+        "product_name": "Product 2",
+        "description": "Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.",
+        "price": 82.87
+    },
+    {
+        "id_product": 3,
+        "image": "3.jpg",
+        "name": "Product 3",
+        "description": "In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.",
+        "price": 22.39
+    },
+    {
+        "id_product": 4,
+        "image": "4.jpg",
+        "name": "Product 4",
+        "description": "Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.",
+        "price": "92.99"
+    },
+    {
+        "id_product": 5,
+        "image": "5.jpg",
+        "name": "Product 5",
+        "description": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.",
+        "price": "12.55"
+    }
+]
